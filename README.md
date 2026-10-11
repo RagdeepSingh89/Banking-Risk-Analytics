@@ -56,5 +56,5 @@ To run this project on your local machine, follow these steps:
 ### 2. Clone the Repository
 
 ```bash
-git clone [https://github.com/BhavyaJaggi12/Banking-Risk-Analytics-.git](https://github.com/BhavyaJaggi12/Banking-Risk-Analytics-.git)
+git clone [https://github.com/RagdeepSingh89/Banking-Risk-Analytics](https://github.com/RagdeepSingh89/Banking-Risk-Analytics)
 cd Banking-Risk-Analytics-
